@@ -6,7 +6,7 @@
 
 ### Self-introduction
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=hmmhmmhm&show_icons=true&theme=dracula&hide_border=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=hmmhmmhm&show_icons=true&theme=dracula&hide_border=true" width="400px">
 
 - 🌐 I'm currently working as a Web Frontend Developer and I'm aiming to a full stack. (I also like Prisma and mysql.)
 - 🧳 I am currently using React and Next.js at work.
@@ -20,7 +20,7 @@
 - 🍡 Planetscale and Upstash based Prisma, MySQL, Redis
 - 🍧 Figma based MUI, Rive, Blueprint.js, Figjam, Spline
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmmhmmhm&show_icons=true&theme=dracula&layout=compact&hide_border=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmmhmmhm&show_icons=true&theme=dracula&layout=compact&hide_border=true" width="400px">
 
 ### Hobby list
 
