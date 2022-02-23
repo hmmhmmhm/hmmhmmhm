@@ -23,6 +23,6 @@
 
 ### Hobby list
 
-- 🧑🏻‍💻 I like to find and use a new library. (Svelte might be)
-- 😸 I have two cat, and their colours are the same as emoji. 🐈🐈‍⬛
-- 🕹 I like games too. (e.g. Overwatch, Starcraft 2)
+- 🧑🏻‍💻 I like to find and use a new library. (svelte might be)
+- 😸 I have two cat (their colours are the same as 🐈🐈‍⬛) 
+- 🕹 I like games too. (e.g. overwatch, starcraft 2)
