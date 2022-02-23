@@ -24,5 +24,5 @@
 ### Hobby list
 
 - 🧑🏻‍💻 I'm also developing it as a hobby. (Svelte might be)
-- 😸 I have two cat, Their color is the same as emoji. 🐈🐈‍⬛
+- 😸 I have two cat, Their color are the same as emoji. 🐈🐈‍⬛
 - 🕹 I like games too. (e.g. Overwatch, Starcraft 2)
