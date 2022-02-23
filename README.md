@@ -1,4 +1,3 @@
-### 🔖 hmmhmmhm
 
 [![Kakao Email Badge](https://img.shields.io/badge/kakao-email-yellow)](mailto:pm2@kakao.com)
 [![Notion Badge](https://img.shields.io/badge/notion-blog-red)](https://javascript.oopy.io)
@@ -24,6 +23,6 @@
 
 ### Hobby list
 
-- 🧑🏻‍💻 Development is a hobby.... won't believe me if I say so, right..? LOL
+- 🧑🏻‍💻 I'm also developing it as a hobby. (Svelte might be)
 - 😸 I have two cas, Their color is the same as emoji. 🐈🐈‍⬛
-- 🕹 OK, I like games too. (e.g. Overwatch, Starcraft 2, Minecraft)
+- 🕹 I like games too. (e.g. Overwatch, Starcraft 2)
