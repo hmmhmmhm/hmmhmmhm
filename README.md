@@ -10,7 +10,7 @@
 - 🌐 I'm currently working as a Web Frontend Developer and I'm aiming to a full stack. (I also like Prisma and mysql.)
 - 🧳 I am currently using React and Next.js at work.
 - 🗺 I live in Geumcheon-gu, Korea.
-- ⏳ I am 27 years old now.
+- ⏳ I am 27 years old now. I started development at the 17.
 
 
 ### Favorite technique
