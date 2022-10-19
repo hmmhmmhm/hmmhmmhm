@@ -1,6 +1,6 @@
 
 [![Kakao Email Badge](https://img.shields.io/badge/kakao-email-yellow)](mailto:pm2@kakao.com)
-[![Notion Badge](https://img.shields.io/badge/notion-blog-red)](https://javascript.oopy.io)
+[![Notion Badge](https://img.shields.io/badge/notion-blog-red)](https://hmmhmm.hm)
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40hmartapp)](https://twitter.com/hmartapp)
 
 ### Self-introduction
