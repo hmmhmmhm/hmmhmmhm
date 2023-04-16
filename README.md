@@ -16,8 +16,8 @@
 ### Favorite technique
 
 - 🏷 Vercel based Next.js, Tailwind CSS, Styled JSX (SCSS)
-- 📦 Railway based Nest.js, Swagger, React-Query
-- 🍡 Planetscale and Upstash based Prisma, MySQL, Redis
+- 📦 Railway.app based Nest.js, Swagger, React-Query
+- 🍡 Supabase and Upstash based Prisma, MySQL, Redis
 - 🍧 Figma based MUI, Rive, Blueprint.js, Figjam, Spline
 
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmmhmmhm&show_icons=true&theme=dracula&layout=compact&hide_border=true" width="400px">
