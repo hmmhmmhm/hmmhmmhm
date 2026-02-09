@@ -4,8 +4,6 @@
 
 ### Self-introduction
 
-<img align='right' src="./metrics/github-stats.svg" width="400px">
-
 - 🌐 I'm currently working as a Web Frontend Developer and I'm aiming to a full stack. (I also like Prisma and mysql.)
 - 🧳 I am currently using React and Next.js at work.
 - 🗺 I live in Ansan-si, Korea.
@@ -18,10 +16,13 @@
 - 🍡 Supabase and Upstash based Prisma, MySQL, Redis
 - 🍧 Figma based MUI, Rive, Blueprint.js, Figjam, Spline
 
-<img align='right' src="./metrics/languages.svg" width="400px">
-
 ### Hobby list
 
 - 🧑🏻‍💻 I like to find and use a new library. (svelte might be)
 - 😸 I have two cat (their colours are the same as 🐈🐈‍⬛)
 - 🕹 I like games too. (e.g. overwatch, starcraft 2)
+
+### Stats
+
+<img src="./metrics/github-stats.svg">
+<img src="./metrics/languages.svg">
