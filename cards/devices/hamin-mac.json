@@ -1,7 +1,7 @@
 {
   "version": 1,
   "device": "hamin-mac",
-  "updatedAt": "2026-07-16T02:32:53.588Z",
+  "updatedAt": "2026-07-16T02:45:03.517Z",
   "daily": [
     {
       "agent": "all",
@@ -1433,8 +1433,8 @@
     {
       "agent": "all",
       "cacheCreationTokens": 0,
-      "cacheReadTokens": 8171776,
-      "inputTokens": 521899,
+      "cacheReadTokens": 14806528,
+      "inputTokens": 786106,
       "metadata": {
         "agents": [
           "codex"
@@ -1443,47 +1443,47 @@
       "modelBreakdowns": [
         {
           "cacheCreationTokens": 0,
-          "cacheReadTokens": 7911680,
-          "cost": 7.32396,
-          "inputTokens": 466762,
+          "cacheReadTokens": 13055488,
+          "cost": 11.360029,
+          "inputTokens": 624661,
           "modelName": "gpt-5.6-sol",
-          "outputTokens": 34477
+          "outputTokens": 56966
         },
         {
           "cacheCreationTokens": 0,
-          "cacheReadTokens": 260096,
-          "cost": 0.501193,
-          "inputTokens": 55137,
+          "cacheReadTokens": 1751040,
+          "cost": 2.022765,
+          "inputTokens": 161445,
           "modelName": "gpt-5.5",
-          "outputTokens": 3182
+          "outputTokens": 11334
         }
       ],
       "modelsUsed": [
         "gpt-5.5",
         "gpt-5.6-sol"
       ],
-      "outputTokens": 37659,
+      "outputTokens": 68300,
       "period": "2026-07-16",
-      "totalCost": 7.825152999999999,
-      "totalTokens": 8731334
+      "totalCost": 13.382794,
+      "totalTokens": 15660934
     }
   ],
   "totals": {
     "cacheCreationTokens": 0,
-    "cacheReadTokens": 5638343284,
-    "inputTokens": 1169559854,
-    "outputTokens": 18441919,
-    "totalCost": 6039.8220781499995,
-    "totalTokens": 6826345382
+    "cacheReadTokens": 5644978036,
+    "inputTokens": 1169824061,
+    "outputTokens": 18472560,
+    "totalCost": 6045.37971915,
+    "totalTokens": 6833274982
   },
   "tools": [
     [
       "Claude Code",
-      1212.8881373999984
+      1212.9310133999988
     ],
     [
       "Codex",
-      4826.933940750001
+      4832.448705750001
     ]
   ]
 }
