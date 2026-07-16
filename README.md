@@ -26,3 +26,5 @@
 
 <img src="./metrics/github-stats.svg">
 <img src="./metrics/languages.svg">
+
+<img width="100%" src="https://raw.githubusercontent.com/hmmhmmhm/hmmhmmhm/main/cards/ai-usage-combo.svg" alt="AI coding usage" />
