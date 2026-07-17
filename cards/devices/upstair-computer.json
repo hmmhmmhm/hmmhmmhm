@@ -1,7 +1,7 @@
 {
   "version": 1,
   "device": "upstair-computer",
-  "updatedAt": "2026-07-16T09:14:19.871Z",
+  "updatedAt": "2026-07-17T02:02:40.336Z",
   "daily": [
     {
       "agent": "all",
@@ -1639,8 +1639,8 @@
     {
       "agent": "all",
       "cacheCreationTokens": 0,
-      "cacheReadTokens": 2017920,
-      "inputTokens": 196142,
+      "cacheReadTokens": 2417024,
+      "inputTokens": 202906,
       "metadata": {
         "agents": [
           "codex"
@@ -1649,29 +1649,29 @@
       "modelBreakdowns": [
         {
           "cacheCreationTokens": 0,
-          "cacheReadTokens": 2017920,
-          "cost": 2.48689,
-          "inputTokens": 196142,
+          "cacheReadTokens": 2417024,
+          "cost": 2.7971220000000003,
+          "inputTokens": 202906,
           "modelName": "gpt-5.5",
-          "outputTokens": 16574
+          "outputTokens": 19136
         }
       ],
       "modelsUsed": [
         "gpt-5.5"
       ],
-      "outputTokens": 16574,
+      "outputTokens": 19136,
       "period": "2026-07-16",
-      "totalCost": 2.48689,
-      "totalTokens": 2230636
+      "totalCost": 2.7971220000000003,
+      "totalTokens": 2639066
     }
   ],
   "totals": {
     "cacheCreationTokens": 0,
-    "cacheReadTokens": 20348752768,
-    "inputTokens": 906049261,
-    "outputTokens": 152207674,
-    "totalCost": 8445.85062815,
-    "totalTokens": 21407009703
+    "cacheReadTokens": 20349151872,
+    "inputTokens": 906056025,
+    "outputTokens": 152210236,
+    "totalCost": 8446.16086015,
+    "totalTokens": 21407418133
   },
   "tools": [
     [
@@ -1680,7 +1680,7 @@
     ],
     [
       "Codex",
-      8445.85062815
+      8446.16086015
     ]
   ]
 }
