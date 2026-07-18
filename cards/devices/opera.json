@@ -1,7 +1,7 @@
 {
   "version": 1,
   "device": "opera",
-  "updatedAt": "2026-07-17T01:00:31.405Z",
+  "updatedAt": "2026-07-18T01:00:31.519Z",
   "daily": [
     {
       "agent": "all",
@@ -3280,15 +3280,71 @@
       "period": "2026-07-16",
       "totalCost": 18.088369,
       "totalTokens": 21441513
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 42048256,
+      "inputTokens": 906725,
+      "metadata": {
+        "agents": [
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 42048256,
+          "cost": 29.674923,
+          "inputTokens": 906725,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 137239
+        }
+      ],
+      "modelsUsed": [
+        "gpt-5.6-sol"
+      ],
+      "outputTokens": 137239,
+      "period": "2026-07-17",
+      "totalCost": 29.674923,
+      "totalTokens": 43092220
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 1508608,
+      "inputTokens": 13983,
+      "metadata": {
+        "agents": [
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 1508608,
+          "cost": 0.949949,
+          "inputTokens": 13983,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 4191
+        }
+      ],
+      "modelsUsed": [
+        "gpt-5.6-sol"
+      ],
+      "outputTokens": 4191,
+      "period": "2026-07-18",
+      "totalCost": 0.949949,
+      "totalTokens": 1526782
     }
   ],
   "totals": {
     "cacheCreationTokens": 86840074,
-    "cacheReadTokens": 33369198798,
-    "inputTokens": 1168462216,
-    "outputTokens": 142603367,
-    "totalCost": 18954.21340315,
-    "totalTokens": 34767104455
+    "cacheReadTokens": 33412755662,
+    "inputTokens": 1169382924,
+    "outputTokens": 142744797,
+    "totalCost": 18984.83827515,
+    "totalTokens": 34811723457
   },
   "tools": [
     [
@@ -3297,7 +3353,7 @@
     ],
     [
       "Codex",
-      16913.185921700006
+      16943.810793700006
     ]
   ]
 }
