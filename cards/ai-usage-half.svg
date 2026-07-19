@@ -14,7 +14,7 @@
 <rect width="422" height="194" x="0.5" y="0.5" rx="4.5" fill="#000000" stroke="#262626" stroke-width="1"/>
 <text x="30" y="34" class="t fade">&#9889; AI Usage</text>
 <text x="393" y="34" text-anchor="end" class="user fade">@hmmhmmhm</text>
-<text x="393" y="49" text-anchor="end" class="foot fade">API-equivalent &#183; 2026-07-18</text>
+<text x="393" y="49" text-anchor="end" class="foot fade">API-equivalent &#183; 2026-07-19</text>
 <line x1="200" y1="60" x2="200" y2="175" stroke="#262626" stroke-width="1"/>
 <g class="fade" style="animation-delay:150ms"><text x="30" y="74" class="hdr">ALL-TIME</text>
 <text x="30" y="140" class="big">64.8B</text>
