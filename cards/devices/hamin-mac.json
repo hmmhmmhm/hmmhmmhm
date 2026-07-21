@@ -1,7 +1,7 @@
 {
   "version": 1,
   "device": "hamin-mac",
-  "updatedAt": "2026-07-19T00:37:21.368Z",
+  "updatedAt": "2026-07-21T00:37:32.704Z",
   "daily": [
     {
       "agent": "all",
@@ -1494,15 +1494,71 @@
       "period": "2026-07-17",
       "totalCost": 24.731538,
       "totalTokens": 37049350
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 133776640,
+      "inputTokens": 4655773,
+      "metadata": {
+        "agents": [
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 133776640,
+          "cost": 100.00145499999999,
+          "inputTokens": 4655773,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 327809
+        }
+      ],
+      "modelsUsed": [
+        "gpt-5.6-sol"
+      ],
+      "outputTokens": 327809,
+      "period": "2026-07-20",
+      "totalCost": 100.00145499999999,
+      "totalTokens": 138760222
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 17174528,
+      "inputTokens": 586365,
+      "metadata": {
+        "agents": [
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 17174528,
+          "cost": 13.295238999999999,
+          "inputTokens": 586365,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 59205
+        }
+      ],
+      "modelsUsed": [
+        "gpt-5.6-sol"
+      ],
+      "outputTokens": 59205,
+      "period": "2026-07-21",
+      "totalCost": 13.295238999999999,
+      "totalTokens": 17820098
     }
   ],
   "totals": {
     "cacheCreationTokens": 0,
-    "cacheReadTokens": 5955475572,
-    "inputTokens": 1178166351,
-    "outputTokens": 19020898,
-    "totalCost": 6258.79007715,
-    "totalTokens": 7152663146
+    "cacheReadTokens": 6106426740,
+    "inputTokens": 1183408489,
+    "outputTokens": 19407912,
+    "totalCost": 6372.08677115,
+    "totalTokens": 7309243466
   },
   "tools": [
     [
@@ -1511,7 +1567,7 @@
     ],
     [
       "Codex",
-      5045.794072750001
+      5159.0907667500005
     ]
   ]
 }
