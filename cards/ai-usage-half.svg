@@ -14,10 +14,10 @@
 <rect width="422" height="194" x="0.5" y="0.5" rx="4.5" fill="#000000" stroke="#262626" stroke-width="1"/>
 <text x="30" y="34" class="t fade">&#9889; AI Usage</text>
 <text x="393" y="34" text-anchor="end" class="user fade">@hmmhmmhm</text>
-<text x="393" y="49" text-anchor="end" class="foot fade">API-equivalent &#183; 2026-07-23</text>
+<text x="393" y="49" text-anchor="end" class="foot fade">API-equivalent &#183; 2026-07-24</text>
 <line x1="200" y1="60" x2="200" y2="175" stroke="#262626" stroke-width="1"/>
 <g class="fade" style="animation-delay:150ms"><text x="30" y="74" class="hdr">ALL-TIME</text>
-<text x="30" y="140" class="big">69.9B</text>
+<text x="30" y="140" class="big">70.8B</text>
 <text x="30" y="165" class="sub">tokens &#183; 94.4% cache-hit</text></g>
-<g class="fade" style="animation-delay:300ms"><text x="222" y="74" class="hdr">COST</text><text x="222" y="98" class="lbl">USD</text><text x="393" y="98" text-anchor="end" class="val">$ 38,125</text><text x="222" y="123" class="lbl">KRW</text><text x="393" y="123" text-anchor="end" class="val">₩ 56,367,151</text><text x="222" y="148" class="lbl">EUR</text><text x="393" y="148" text-anchor="end" class="val">€ 33,411</text><text x="222" y="173" class="lbl">CNY</text><text x="393" y="173" text-anchor="end" class="val">¥ 258,544</text></g>
+<g class="fade" style="animation-delay:300ms"><text x="222" y="74" class="hdr">COST</text><text x="222" y="98" class="lbl">USD</text><text x="393" y="98" text-anchor="end" class="val">$ 38,722</text><text x="222" y="123" class="lbl">KRW</text><text x="393" y="123" text-anchor="end" class="val">₩ 57,250,323</text><text x="222" y="148" class="lbl">EUR</text><text x="393" y="148" text-anchor="end" class="val">€ 33,935</text><text x="222" y="173" class="lbl">CNY</text><text x="393" y="173" text-anchor="end" class="val">¥ 262,595</text></g>
 </svg>
