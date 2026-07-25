@@ -1,7 +1,7 @@
 {
   "version": 1,
   "device": "gpd",
-  "updatedAt": "2026-07-25T09:56:53.138Z",
+  "updatedAt": "2026-07-25T22:00:06.955Z",
   "daily": [
     {
       "agent": "all",
@@ -1473,15 +1473,71 @@
       "period": "2026-07-19",
       "totalCost": 6.569649999999999,
       "totalTokens": 7591015
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 77649920,
+      "inputTokens": 1961848,
+      "metadata": {
+        "agents": [
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 77649920,
+          "cost": 56.67876,
+          "inputTokens": 1961848,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 268152
+        }
+      ],
+      "modelsUsed": [
+        "gpt-5.6-sol"
+      ],
+      "outputTokens": 268152,
+      "period": "2026-07-25",
+      "totalCost": 56.67876,
+      "totalTokens": 79879920
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 67308544,
+      "inputTokens": 1287414,
+      "metadata": {
+        "agents": [
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 67308544,
+          "cost": 46.331551999999995,
+          "inputTokens": 1287414,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 208007
+        }
+      ],
+      "modelsUsed": [
+        "gpt-5.6-sol"
+      ],
+      "outputTokens": 208007,
+      "period": "2026-07-26",
+      "totalCost": 46.331551999999995,
+      "totalTokens": 68803965
     }
   ],
   "totals": {
     "cacheCreationTokens": 13347574,
-    "cacheReadTokens": 1392772877,
-    "inputTokens": 69685894,
-    "outputTokens": 6886564,
-    "totalCost": 813.5750269,
-    "totalTokens": 1482692909
+    "cacheReadTokens": 1537731341,
+    "inputTokens": 72935156,
+    "outputTokens": 7362723,
+    "totalCost": 916.5853389,
+    "totalTokens": 1631376794
   },
   "tools": [
     [
@@ -1490,7 +1546,7 @@
     ],
     [
       "Codex",
-      396.2766081500001
+      499.28692015000007
     ]
   ]
 }
