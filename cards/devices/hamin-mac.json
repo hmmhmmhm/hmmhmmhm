@@ -1,7 +1,7 @@
 {
   "version": 1,
   "device": "hamin-mac",
-  "updatedAt": "2026-07-26T00:37:25.350Z",
+  "updatedAt": "2026-07-27T00:39:07.717Z",
   "daily": [
     {
       "agent": "all",
@@ -1634,24 +1634,52 @@
       "period": "2026-07-24",
       "totalCost": 392.700611,
       "totalTokens": 519072058
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 27214592,
+      "inputTokens": 1169511,
+      "metadata": {
+        "agents": [
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 27214592,
+          "cost": 21.646351000000003,
+          "inputTokens": 1169511,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 73050
+        }
+      ],
+      "modelsUsed": [
+        "gpt-5.6-sol"
+      ],
+      "outputTokens": 73050,
+      "period": "2026-07-27",
+      "totalCost": 21.646351000000003,
+      "totalTokens": 28457153
     }
   ],
   "totals": {
     "cacheCreationTokens": 0,
-    "cacheReadTokens": 7684717428,
-    "inputTokens": 1237958720,
-    "outputTokens": 23584170,
-    "totalCost": 7559.271010150001,
-    "totalTokens": 8946260643
+    "cacheReadTokens": 7711932020,
+    "inputTokens": 1239128231,
+    "outputTokens": 23657220,
+    "totalCost": 7580.917361150001,
+    "totalTokens": 8974717796
   },
   "tools": [
     [
       "Claude Code",
-      1212.9960044
+      1212.5629884
     ],
     [
       "Codex",
-      6346.275005750001
+      6368.354372750001
     ]
   ]
 }
