@@ -1,7 +1,7 @@
 {
   "version": 1,
   "device": "opera",
-  "updatedAt": "2026-07-31T01:00:48.604Z",
+  "updatedAt": "2026-08-01T01:00:43.914Z",
   "daily": [
     {
       "agent": "all",
@@ -3672,24 +3672,80 @@
       "period": "2026-07-30",
       "totalCost": 151.014009,
       "totalTokens": 180829268
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 147123200,
+      "inputTokens": 7335901,
+      "metadata": {
+        "agents": [
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 147123200,
+          "cost": 120.468405,
+          "inputTokens": 7335901,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 340910
+        }
+      ],
+      "modelsUsed": [
+        "gpt-5.6-sol"
+      ],
+      "outputTokens": 340910,
+      "period": "2026-07-31",
+      "totalCost": 120.468405,
+      "totalTokens": 154800011
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 14803968,
+      "inputTokens": 1062624,
+      "metadata": {
+        "agents": [
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 14803968,
+          "cost": 13.812324,
+          "inputTokens": 1062624,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 36574
+        }
+      ],
+      "modelsUsed": [
+        "gpt-5.6-sol"
+      ],
+      "outputTokens": 36574,
+      "period": "2026-08-01",
+      "totalCost": 13.812324,
+      "totalTokens": 15903166
     }
   ],
   "totals": {
     "cacheCreationTokens": 86840074,
-    "cacheReadTokens": 29496290894,
-    "inputTokens": 1009899612,
-    "outputTokens": 135708801,
-    "totalCost": 16885.208199699995,
-    "totalTokens": 30728739381
+    "cacheReadTokens": 29658218062,
+    "inputTokens": 1018298137,
+    "outputTokens": 136086285,
+    "totalCost": 17019.488928699993,
+    "totalTokens": 30899442558
   },
   "tools": [
     [
       "Claude Code",
-      2041.0274814499971
+      2040.754368449996
     ],
     [
       "Codex",
-      14844.180718249998
+      14978.734560249997
     ]
   ]
 }
