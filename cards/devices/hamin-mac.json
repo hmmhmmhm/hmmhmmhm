@@ -1,7 +1,7 @@
 {
   "version": 1,
   "device": "hamin-mac",
-  "updatedAt": "2026-07-31T00:37:34.171Z",
+  "updatedAt": "2026-08-01T00:37:28.140Z",
   "daily": [
     {
       "agent": "all",
@@ -1746,15 +1746,43 @@
       "period": "2026-07-30",
       "totalCost": 181.04029,
       "totalTokens": 179235277
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 78692352,
+      "inputTokens": 2049258,
+      "metadata": {
+        "agents": [
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 78692352,
+          "cost": 80.385851,
+          "inputTokens": 2049258,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 144988
+        }
+      ],
+      "modelsUsed": [
+        "gpt-5.6-sol"
+      ],
+      "outputTokens": 144988,
+      "period": "2026-07-31",
+      "totalCost": 80.385851,
+      "totalTokens": 80886598
     }
   ],
   "totals": {
     "cacheCreationTokens": 0,
-    "cacheReadTokens": 7864104242,
-    "inputTokens": 1233358175,
-    "outputTokens": 23812647,
-    "totalCost": 7689.954607449999,
-    "totalTokens": 9121275389
+    "cacheReadTokens": 7942796594,
+    "inputTokens": 1235407433,
+    "outputTokens": 23957635,
+    "totalCost": 7770.340458449999,
+    "totalTokens": 9202161987
   },
   "tools": [
     [
@@ -1763,7 +1791,7 @@
     ],
     [
       "Codex",
-      6476.95860305
+      6557.34445405
     ]
   ]
 }
