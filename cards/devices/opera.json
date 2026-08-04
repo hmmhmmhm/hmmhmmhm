@@ -1,7 +1,7 @@
 {
   "version": 1,
   "device": "opera",
-  "updatedAt": "2026-08-02T01:04:02.245Z",
+  "updatedAt": "2026-08-04T01:00:53.076Z",
   "daily": [
     {
       "agent": "all",
@@ -3732,8 +3732,8 @@
     {
       "agent": "all",
       "cacheCreationTokens": 0,
-      "cacheReadTokens": 88750848,
-      "inputTokens": 5228287,
+      "cacheReadTokens": 589231616,
+      "inputTokens": 30363473,
       "metadata": {
         "agents": [
           "codex"
@@ -3742,38 +3742,66 @@
       "modelBreakdowns": [
         {
           "cacheCreationTokens": 0,
-          "cacheReadTokens": 88750848,
-          "cost": 135.27425599999998,
-          "inputTokens": 5228287,
+          "cacheReadTokens": 589231616,
+          "cost": 766.1127530000001,
+          "inputTokens": 30363473,
           "modelName": "gpt-5.6-sol",
-          "outputTokens": 206994
+          "outputTokens": 1234945
         }
       ],
       "modelsUsed": [
         "gpt-5.6-sol"
       ],
-      "outputTokens": 206994,
+      "outputTokens": 1234945,
       "period": "2026-08-02",
-      "totalCost": 135.27425599999998,
-      "totalTokens": 94186129
+      "totalCost": 766.1127530000001,
+      "totalTokens": 620830034
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 30185728,
+      "inputTokens": 1764220,
+      "metadata": {
+        "agents": [
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 30185728,
+          "cost": 42.552561,
+          "inputTokens": 1764220,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 87311
+        }
+      ],
+      "modelsUsed": [
+        "gpt-5.6-sol"
+      ],
+      "outputTokens": 87311,
+      "period": "2026-08-03",
+      "totalCost": 42.552561,
+      "totalTokens": 32037259
     }
   ],
   "totals": {
     "cacheCreationTokens": 86840074,
-    "cacheReadTokens": 30008708174,
-    "inputTokens": 1035547696,
-    "outputTokens": 136788257,
-    "totalCost": 30867.4534824,
-    "totalTokens": 31267884201
+    "cacheReadTokens": 30539374670,
+    "inputTokens": 1062447102,
+    "outputTokens": 137903519,
+    "totalCost": 31540.8445404,
+    "totalTokens": 31826565365
   },
   "tools": [
     [
       "Claude Code",
-      2038.895888449999
+      2041.0274814499971
     ],
     [
       "Codex",
-      28828.55759395
+      29499.817058950004
     ]
   ]
 }
