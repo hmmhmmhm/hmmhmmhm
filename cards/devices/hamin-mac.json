@@ -1,7 +1,7 @@
 {
   "version": 1,
   "device": "hamin-mac",
-  "updatedAt": "2026-08-10T00:37:55.263Z",
+  "updatedAt": "2026-08-11T00:37:41.953Z",
   "daily": [
     {
       "agent": "all",
@@ -1778,8 +1778,8 @@
     {
       "agent": "all",
       "cacheCreationTokens": 0,
-      "cacheReadTokens": 193734656,
-      "inputTokens": 5797952,
+      "cacheReadTokens": 200158208,
+      "inputTokens": 6145310,
       "metadata": {
         "agents": [
           "codex"
@@ -1788,11 +1788,11 @@
       "modelBreakdowns": [
         {
           "cacheCreationTokens": 0,
-          "cacheReadTokens": 193571840,
-          "cost": 141.49963,
-          "inputTokens": 5739671,
+          "cacheReadTokens": 199995392,
+          "cost": 147.50482599999998,
+          "inputTokens": 6087029,
           "modelName": "gpt-5.6-sol",
-          "outputTokens": 490993
+          "outputTokens": 526214
         },
         {
           "cacheCreationTokens": 0,
@@ -1807,16 +1807,16 @@
         "gpt-5.6-sol",
         "gpt-5.6-terra"
       ],
-      "outputTokens": 491625,
+      "outputTokens": 526846,
       "period": "2026-08-03",
-      "totalCost": 141.6563392,
-      "totalTokens": 200024233
+      "totalCost": 147.66153519999997,
+      "totalTokens": 206830364
     },
     {
       "agent": "all",
       "cacheCreationTokens": 0,
-      "cacheReadTokens": 203051776,
-      "inputTokens": 7169486,
+      "cacheReadTokens": 299039488,
+      "inputTokens": 9295114,
       "metadata": {
         "agents": [
           "codex"
@@ -1825,20 +1825,20 @@
       "modelBreakdowns": [
         {
           "cacheCreationTokens": 0,
-          "cacheReadTokens": 203051776,
-          "cost": 150.88405799999998,
-          "inputTokens": 7169486,
+          "cacheReadTokens": 299039488,
+          "cost": 217.137754,
+          "inputTokens": 9295114,
           "modelName": "gpt-5.6-sol",
-          "outputTokens": 450358
+          "outputTokens": 704748
         }
       ],
       "modelsUsed": [
         "gpt-5.6-sol"
       ],
-      "outputTokens": 450358,
+      "outputTokens": 704748,
       "period": "2026-08-04",
-      "totalCost": 150.88405799999998,
-      "totalTokens": 210671620
+      "totalCost": 217.137754,
+      "totalTokens": 309039350
     },
     {
       "agent": "all",
@@ -1899,8 +1899,8 @@
     {
       "agent": "all",
       "cacheCreationTokens": 0,
-      "cacheReadTokens": 321087360,
-      "inputTokens": 8082288,
+      "cacheReadTokens": 330123904,
+      "inputTokens": 8518194,
       "metadata": {
         "agents": [
           "codex"
@@ -1909,20 +1909,20 @@
       "modelBreakdowns": [
         {
           "cacheCreationTokens": 0,
-          "cacheReadTokens": 321087360,
-          "cost": 223.4382,
-          "inputTokens": 8082288,
+          "cacheReadTokens": 330123904,
+          "cost": 231.082832,
+          "inputTokens": 8518194,
           "modelName": "gpt-5.6-sol",
-          "outputTokens": 749436
+          "outputTokens": 780997
         }
       ],
       "modelsUsed": [
         "gpt-5.6-sol"
       ],
-      "outputTokens": 749436,
+      "outputTokens": 780997,
       "period": "2026-08-07",
-      "totalCost": 223.4382,
-      "totalTokens": 329919084
+      "totalCost": 231.082832,
+      "totalTokens": 339423095
     },
     {
       "agent": "all",
@@ -1955,8 +1955,8 @@
     {
       "agent": "all",
       "cacheCreationTokens": 0,
-      "cacheReadTokens": 28858880,
-      "inputTokens": 1140164,
+      "cacheReadTokens": 528700416,
+      "inputTokens": 11168101,
       "metadata": {
         "agents": [
           "codex"
@@ -1965,38 +1965,84 @@
       "modelBreakdowns": [
         {
           "cacheCreationTokens": 0,
-          "cacheReadTokens": 28858880,
-          "cost": 21.68249,
-          "inputTokens": 1140164,
+          "cacheReadTokens": 519627008,
+          "cost": 345.568094,
+          "inputTokens": 10962272,
           "modelName": "gpt-5.6-sol",
-          "outputTokens": 51741
+          "outputTokens": 1031441
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 9073408,
+          "cost": 2.5526435999999997,
+          "inputTokens": 205829,
+          "modelName": "gpt-5.6-terra",
+          "outputTokens": 27192
         }
       ],
       "modelsUsed": [
-        "gpt-5.6-sol"
+        "gpt-5.6-sol",
+        "gpt-5.6-terra"
       ],
-      "outputTokens": 51741,
+      "outputTokens": 1058633,
       "period": "2026-08-10",
-      "totalCost": 21.68249,
-      "totalTokens": 30050785
+      "totalCost": 348.1207376,
+      "totalTokens": 540927150
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 40814336,
+      "inputTokens": 1289689,
+      "metadata": {
+        "agents": [
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 28209152,
+          "cost": 19.211486,
+          "inputTokens": 669248,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 58689
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 12605184,
+          "cost": 4.0823308,
+          "inputTokens": 620441,
+          "modelName": "gpt-5.6-terra",
+          "outputTokens": 26701
+        }
+      ],
+      "modelsUsed": [
+        "gpt-5.6-sol",
+        "gpt-5.6-terra"
+      ],
+      "outputTokens": 85390,
+      "period": "2026-08-11",
+      "totalCost": 23.293816800000002,
+      "totalTokens": 42189415
     }
   ],
   "totals": {
     "cacheCreationTokens": 0,
-    "cacheReadTokens": 9101323058,
-    "inputTokens": 1269988695,
-    "outputTokens": 26627956,
-    "totalCost": 8603.670131649997,
-    "totalTokens": 10397940034
+    "cacheReadTokens": 9753426738,
+    "inputTokens": 1284215213,
+    "outputTokens": 28041410,
+    "totalCost": 9033.305720049999,
+    "totalTokens": 11065683686
   },
   "tools": [
     [
       "Claude Code",
-      1212.7049093999976
+      1212.7585963999982
     ],
     [
       "Codex",
-      7390.965222249999
+      7820.547123650001
     ]
   ]
 }
