@@ -1,7 +1,7 @@
 {
   "version": 1,
   "device": "opera",
-  "updatedAt": "2026-08-15T01:01:09.563Z",
+  "updatedAt": "2026-08-16T01:00:50.686Z",
   "daily": [
     {
       "agent": "all",
@@ -3905,15 +3905,43 @@
       "period": "2026-08-14",
       "totalCost": 47.959958,
       "totalTokens": 68281211
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 2889984,
+      "inputTokens": 167707,
+      "metadata": {
+        "agents": [
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 2889984,
+          "cost": 2.808947,
+          "inputTokens": 167707,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 17514
+        }
+      ],
+      "modelsUsed": [
+        "gpt-5.6-sol"
+      ],
+      "outputTokens": 17514,
+      "period": "2026-08-15",
+      "totalCost": 2.808947,
+      "totalTokens": 3075205
     }
   ],
   "totals": {
     "cacheCreationTokens": 86840074,
-    "cacheReadTokens": 31043266126,
-    "inputTokens": 1075072621,
-    "outputTokens": 139523098,
-    "totalCost": 18635.91406229999,
-    "totalTokens": 32344701919
+    "cacheReadTokens": 31046156110,
+    "inputTokens": 1075240328,
+    "outputTokens": 139540612,
+    "totalCost": 18638.723009299993,
+    "totalTokens": 32347777124
   },
   "tools": [
     [
@@ -3922,7 +3950,7 @@
     ],
     [
       "Codex",
-      16594.886580849998
+      16597.69552785
     ]
   ]
 }
