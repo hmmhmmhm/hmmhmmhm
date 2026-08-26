@@ -1,7 +1,7 @@
 {
   "version": 1,
   "device": "hamin-mac",
-  "updatedAt": "2026-08-25T00:57:53.928Z",
+  "updatedAt": "2026-08-26T00:37:33.282Z",
   "daily": [
     {
       "agent": "all",
@@ -2339,15 +2339,52 @@
       "period": "2026-08-24",
       "totalCost": 156.3637032,
       "totalTokens": 172726481
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 61522432,
+      "inputTokens": 1881709,
+      "metadata": {
+        "agents": [
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 59044608,
+          "cost": 39.3046792,
+          "inputTokens": 1595304,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 132128
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 2477824,
+          "cost": 2.3525096,
+          "inputTokens": 286405,
+          "modelName": "gpt-5.6-terra",
+          "outputTokens": 8990
+        }
+      ],
+      "modelsUsed": [
+        "gpt-5.6-sol",
+        "gpt-5.6-terra"
+      ],
+      "outputTokens": 141118,
+      "period": "2026-08-25",
+      "totalCost": 41.6571888,
+      "totalTokens": 63545259
     }
   ],
   "totals": {
     "cacheCreationTokens": 0,
-    "cacheReadTokens": 11900160946,
-    "inputTokens": 1341581683,
-    "outputTokens": 33055588,
-    "totalCost": 15920.870953199994,
-    "totalTokens": 13274798542
+    "cacheReadTokens": 11961683378,
+    "inputTokens": 1343463392,
+    "outputTokens": 33196706,
+    "totalCost": 15962.528141999994,
+    "totalTokens": 13338343801
   },
   "tools": [
     [
@@ -2356,7 +2393,7 @@
     ],
     [
       "Codex",
-      14707.874948799994
+      14749.532137599994
     ]
   ]
 }
