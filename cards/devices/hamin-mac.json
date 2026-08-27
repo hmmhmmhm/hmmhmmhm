@@ -1,7 +1,7 @@
 {
   "version": 1,
   "device": "hamin-mac",
-  "updatedAt": "2026-08-26T00:37:33.282Z",
+  "updatedAt": "2026-08-27T00:37:35.312Z",
   "daily": [
     {
       "agent": "all",
@@ -2376,15 +2376,89 @@
       "period": "2026-08-25",
       "totalCost": 41.6571888,
       "totalTokens": 63545259
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 270515840,
+      "inputTokens": 7258651,
+      "metadata": {
+        "agents": [
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 264615296,
+          "cost": 285.9225688,
+          "inputTokens": 7017958,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 673736
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 5900544,
+          "cost": 1.8528588,
+          "inputTokens": 240693,
+          "modelName": "gpt-5.6-terra",
+          "outputTokens": 15947
+        }
+      ],
+      "modelsUsed": [
+        "gpt-5.6-sol",
+        "gpt-5.6-terra"
+      ],
+      "outputTokens": 689683,
+      "period": "2026-08-26",
+      "totalCost": 287.7754276,
+      "totalTokens": 278464174
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 13065472,
+      "inputTokens": 817670,
+      "metadata": {
+        "agents": [
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 9908736,
+          "cost": 10.966236799999999,
+          "inputTokens": 317366,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 12508
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 3156736,
+          "cost": 2.8120624,
+          "inputTokens": 500304,
+          "modelName": "gpt-5.6-terra",
+          "outputTokens": 6857
+        }
+      ],
+      "modelsUsed": [
+        "gpt-5.6-sol",
+        "gpt-5.6-terra"
+      ],
+      "outputTokens": 19365,
+      "period": "2026-08-27",
+      "totalCost": 13.7782992,
+      "totalTokens": 13902507
     }
   ],
   "totals": {
     "cacheCreationTokens": 0,
-    "cacheReadTokens": 11961683378,
-    "inputTokens": 1343463392,
-    "outputTokens": 33196706,
-    "totalCost": 15962.528141999994,
-    "totalTokens": 13338343801
+    "cacheReadTokens": 12245264690,
+    "inputTokens": 1351539713,
+    "outputTokens": 33905754,
+    "totalCost": 16264.081868799993,
+    "totalTokens": 13630710482
   },
   "tools": [
     [
@@ -2393,7 +2467,7 @@
     ],
     [
       "Codex",
-      14749.532137599994
+      15051.085864399993
     ]
   ]
 }
