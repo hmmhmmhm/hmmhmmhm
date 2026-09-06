@@ -1,7 +1,7 @@
 {
   "version": 1,
   "device": "hamin-mac",
-  "updatedAt": "2026-09-05T00:37:33.253Z",
+  "updatedAt": "2026-09-06T00:37:40.556Z",
   "daily": [
     {
       "agent": "all",
@@ -193,7 +193,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 0,
-          "cost": 0.03276539999999999,
+          "cost": 0.02307605,
           "inputTokens": 324417,
           "modelName": "gemma-4-26b-a4b-it",
           "outputTokens": 1079
@@ -205,7 +205,7 @@
       ],
       "outputTokens": 3731,
       "period": "2026-05-14",
-      "totalCost": 0.1799913,
+      "totalCost": 0.17030195,
       "totalTokens": 1060137
     },
     {
@@ -2697,13 +2697,13 @@
     "cacheReadTokens": 13581365682,
     "inputTokens": 1391151647,
     "outputTokens": 37382708,
-    "totalCost": 10903.640076719998,
+    "totalCost": 10903.630387369998,
     "totalTokens": 15009900362
   },
   "tools": [
     [
       "Claude Code",
-      1212.9960043999981
+      1212.9863150499987
     ],
     [
       "Codex",
