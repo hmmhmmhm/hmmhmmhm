@@ -1,7 +1,7 @@
 {
   "version": 1,
   "device": "opera",
-  "updatedAt": "2026-09-10T01:00:46.938Z",
+  "updatedAt": "2026-09-11T01:00:45.457Z",
   "daily": [
     {
       "agent": "all",
@@ -3961,15 +3961,43 @@
       "period": "2026-09-08",
       "totalCost": 1.890122,
       "totalTokens": 981717
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 5916160,
+      "inputTokens": 137029,
+      "metadata": {
+        "agents": [
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 5916160,
+          "cost": 8.1352,
+          "inputTokens": 137029,
+          "modelName": "gpt-6-astra",
+          "outputTokens": 16975
+        }
+      ],
+      "modelsUsed": [
+        "gpt-6-astra"
+      ],
+      "outputTokens": 16975,
+      "period": "2026-09-10",
+      "totalCost": 8.1352,
+      "totalTokens": 6070164
     }
   ],
   "totals": {
     "cacheCreationTokens": 86840074,
-    "cacheReadTokens": 30395687502,
-    "inputTokens": 1049814378,
-    "outputTokens": 136501475,
-    "totalCost": 16852.4717215,
-    "totalTokens": 31668843429
+    "cacheReadTokens": 30401603662,
+    "inputTokens": 1049951407,
+    "outputTokens": 136518450,
+    "totalCost": 16860.6069215,
+    "totalTokens": 31674913593
   },
   "tools": [
     [
@@ -3978,7 +4006,7 @@
     ],
     [
       "Codex",
-      14811.444240049997
+      14819.579440049998
     ]
   ]
 }
