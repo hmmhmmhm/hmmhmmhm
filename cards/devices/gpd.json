@@ -1,7 +1,7 @@
 {
   "version": 1,
   "device": "gpd",
-  "updatedAt": "2026-09-10T11:01:46.221Z",
+  "updatedAt": "2026-09-14T22:20:12.511Z",
   "daily": [
     {
       "agent": "all",
@@ -1589,8 +1589,8 @@
     {
       "agent": "all",
       "cacheCreationTokens": 0,
-      "cacheReadTokens": 1096448,
-      "inputTokens": 77772,
+      "cacheReadTokens": 18390784,
+      "inputTokens": 338292,
       "metadata": {
         "agents": [
           "codex"
@@ -1599,38 +1599,38 @@
       "modelBreakdowns": [
         {
           "cacheCreationTokens": 0,
-          "cacheReadTokens": 1096448,
-          "cost": 2.106418,
-          "inputTokens": 77772,
+          "cacheReadTokens": 18390784,
+          "cost": 24.123404,
+          "inputTokens": 338292,
           "modelName": "gpt-6-astra",
-          "outputTokens": 4645
+          "outputTokens": 46994
         }
       ],
       "modelsUsed": [
         "gpt-6-astra"
       ],
-      "outputTokens": 4645,
+      "outputTokens": 46994,
       "period": "2026-09-10",
-      "totalCost": 2.106418,
-      "totalTokens": 1178865
+      "totalCost": 24.123404,
+      "totalTokens": 18776070
     }
   ],
   "totals": {
     "cacheCreationTokens": 13347574,
-    "cacheReadTokens": 1193458061,
-    "inputTokens": 43671547,
-    "outputTokens": 5365773,
-    "totalCost": 775.4832556,
-    "totalTokens": 1255842955
+    "cacheReadTokens": 1210752397,
+    "inputTokens": 43932067,
+    "outputTokens": 5408122,
+    "totalCost": 797.5002416000001,
+    "totalTokens": 1273440160
   },
   "tools": [
     [
       "Claude Code",
-      417.0389227500001
+      417.29841875000017
     ],
     [
       "Codex",
-      358.4443328499999
+      380.2018228499999
     ]
   ]
 }
