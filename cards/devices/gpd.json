@@ -1,7 +1,7 @@
 {
   "version": 1,
   "device": "gpd",
-  "updatedAt": "2026-09-17T07:28:14.136Z",
+  "updatedAt": "2026-09-19T04:07:32.804Z",
   "daily": [
     {
       "agent": "all",
@@ -1572,7 +1572,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 18592896,
-          "cost": 26.656326,
+          "cost": 26.656326000000004,
           "inputTokens": 485673,
           "modelName": "gpt-6-astra",
           "outputTokens": 64134
@@ -1583,7 +1583,7 @@
       ],
       "outputTokens": 64134,
       "period": "2026-09-09",
-      "totalCost": 26.656326,
+      "totalCost": 26.656326000000004,
       "totalTokens": 19142703
     },
     {
