@@ -1,7 +1,7 @@
 {
   "version": 1,
   "device": "opera",
-  "updatedAt": "2026-09-30T01:00:52.186Z",
+  "updatedAt": "2026-10-01T01:01:13.907Z",
   "daily": [
     {
       "agent": "all",
@@ -4269,15 +4269,71 @@
       "period": "2026-09-29",
       "totalCost": 114.578228,
       "totalTokens": 81128146
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 552064,
+      "inputTokens": 66675,
+      "metadata": {
+        "agents": [
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 552064,
+          "cost": 1.301364,
+          "inputTokens": 66675,
+          "modelName": "gpt-6-astra",
+          "outputTokens": 1651
+        }
+      ],
+      "modelsUsed": [
+        "gpt-6-astra"
+      ],
+      "outputTokens": 1651,
+      "period": "2026-09-30",
+      "totalCost": 1.301364,
+      "totalTokens": 620390
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 20416768,
+      "inputTokens": 523844,
+      "metadata": {
+        "agents": [
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 20416768,
+          "cost": 3.6294348,
+          "inputTokens": 523844,
+          "modelName": "gpt-6.1-sol",
+          "outputTokens": 54007
+        }
+      ],
+      "modelsUsed": [
+        "gpt-6.1-sol"
+      ],
+      "outputTokens": 54007,
+      "period": "2026-10-01",
+      "totalCost": 3.6294348,
+      "totalTokens": 20994619
     }
   ],
   "totals": {
     "cacheCreationTokens": 86840074,
-    "cacheReadTokens": 31122248398,
-    "inputTokens": 1067729899,
-    "outputTokens": 138607510,
-    "totalCost": 18101.7730077,
-    "totalTokens": 32415425881
+    "cacheReadTokens": 31143217230,
+    "inputTokens": 1068320418,
+    "outputTokens": 138663168,
+    "totalCost": 18106.7038065,
+    "totalTokens": 32437040890
   },
   "tools": [
     [
@@ -4286,7 +4342,7 @@
     ],
     [
       "Codex",
-      16060.745526249999
+      16065.676325049999
     ]
   ]
 }
