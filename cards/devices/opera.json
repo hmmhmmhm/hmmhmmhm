@@ -1,7 +1,7 @@
 {
   "version": 1,
   "device": "opera",
-  "updatedAt": "2026-10-08T01:00:53.239Z",
+  "updatedAt": "2026-10-09T01:00:54.612Z",
   "daily": [
     {
       "agent": "all",
@@ -4487,8 +4487,8 @@
     {
       "agent": "all",
       "cacheCreationTokens": 0,
-      "cacheReadTokens": 75226368,
-      "inputTokens": 1854012,
+      "cacheReadTokens": 90468352,
+      "inputTokens": 2287184,
       "metadata": {
         "agents": [
           "codex"
@@ -4497,47 +4497,47 @@
       "modelBreakdowns": [
         {
           "cacheCreationTokens": 0,
-          "cacheReadTokens": 68118016,
-          "cost": 11.1564656,
-          "inputTokens": 1243872,
+          "cacheReadTokens": 81999872,
+          "cost": 13.5250732,
+          "inputTokens": 1524338,
           "modelName": "gpt-6.1-sol",
-          "outputTokens": 185692
+          "outputTokens": 227641
         },
         {
           "cacheCreationTokens": 0,
-          "cacheReadTokens": 7108352,
-          "cost": 0.27410584,
-          "inputTokens": 610140,
+          "cacheReadTokens": 8468480,
+          "cost": 0.3343312,
+          "inputTokens": 762846,
           "modelName": "gpt-5.6-luna",
-          "outputTokens": 8259
+          "outputTokens": 10327
         }
       ],
       "modelsUsed": [
         "gpt-5.6-luna",
         "gpt-6.1-sol"
       ],
-      "outputTokens": 193951,
+      "outputTokens": 237968,
       "period": "2026-10-08",
-      "totalCost": 11.430571440000001,
-      "totalTokens": 77274331
+      "totalCost": 13.859404399999999,
+      "totalTokens": 92993504
     }
   ],
   "totals": {
     "cacheCreationTokens": 86840074,
-    "cacheReadTokens": 31865190222,
-    "inputTokens": 1087029734,
-    "outputTokens": 140763857,
-    "totalCost": 18232.96686606,
-    "totalTokens": 33179823887
+    "cacheReadTokens": 31880432206,
+    "inputTokens": 1087462906,
+    "outputTokens": 140807874,
+    "totalCost": 18235.39569902,
+    "totalTokens": 33195543060
   },
   "tools": [
     [
       "Claude Code",
-      2041.00253265
+      2041.027481449999
     ],
     [
       "Codex",
-      16191.96433341
+      16194.36821757
     ]
   ]
 }
