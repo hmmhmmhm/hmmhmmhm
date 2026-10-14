@@ -1,7 +1,7 @@
 {
   "version": 1,
   "device": "gpd",
-  "updatedAt": "2026-10-13T09:54:43.904Z",
+  "updatedAt": "2026-10-14T04:56:15.658Z",
   "daily": [
     {
       "agent": "all",
@@ -1794,8 +1794,8 @@
     {
       "agent": "all",
       "cacheCreationTokens": 0,
-      "cacheReadTokens": 1774976,
-      "inputTokens": 348160,
+      "cacheReadTokens": 12468864,
+      "inputTokens": 525693,
       "metadata": {
         "agents": [
           "codex"
@@ -1804,47 +1804,47 @@
       "modelBreakdowns": [
         {
           "cacheCreationTokens": 0,
+          "cacheReadTokens": 11945088,
+          "cost": 2.5386648000000003,
+          "inputTokens": 390363,
+          "modelName": "gpt-6.1-sol",
+          "outputTokens": 56343
+        },
+        {
+          "cacheCreationTokens": 0,
           "cacheReadTokens": 523776,
           "cost": 1.9240760000000001,
           "inputTokens": 135330,
           "modelName": "gpt-6-astra",
           "outputTokens": 940
-        },
-        {
-          "cacheCreationTokens": 0,
-          "cacheReadTokens": 1251200,
-          "cost": 0.5893499999999999,
-          "inputTokens": 212830,
-          "modelName": "gpt-6.1-sol",
-          "outputTokens": 3857
         }
       ],
       "modelsUsed": [
         "gpt-6-astra",
         "gpt-6.1-sol"
       ],
-      "outputTokens": 4797,
+      "outputTokens": 57283,
       "period": "2026-10-13",
-      "totalCost": 2.513426,
-      "totalTokens": 2127933
+      "totalCost": 4.462740800000001,
+      "totalTokens": 13051840
     }
   ],
   "totals": {
     "cacheCreationTokens": 13347574,
-    "cacheReadTokens": 1331192333,
-    "inputTokens": 47848389,
-    "outputTokens": 5710544,
-    "totalCost": 962.3179247999999,
-    "totalTokens": 1398098840
+    "cacheReadTokens": 1341886221,
+    "inputTokens": 48025922,
+    "outputTokens": 5763030,
+    "totalCost": 964.2672395999999,
+    "totalTokens": 1409022747
   },
   "tools": [
     [
       "Claude Code",
-      417.19001155
+      417.29841875
     ],
     [
       "Codex",
-      545.1279132499999
+      546.9688208499999
     ]
   ]
 }
