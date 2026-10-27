@@ -1,7 +1,7 @@
 {
   "version": 1,
   "device": "opera",
-  "updatedAt": "2026-10-26T01:02:57.905Z",
+  "updatedAt": "2026-10-27T01:38:57.147Z",
   "daily": [
     {
       "agent": "all",
@@ -4916,8 +4916,8 @@
     {
       "agent": "all",
       "cacheCreationTokens": 0,
-      "cacheReadTokens": 129415680,
-      "inputTokens": 2412043,
+      "cacheReadTokens": 373887744,
+      "inputTokens": 6742065,
       "metadata": {
         "agents": [
           "codex"
@@ -4926,38 +4926,84 @@
       "modelBreakdowns": [
         {
           "cacheCreationTokens": 0,
-          "cacheReadTokens": 129415680,
-          "cost": 40.949235800000004,
-          "inputTokens": 2412043,
+          "cacheReadTokens": 69427712,
+          "cost": 97.939422,
+          "inputTokens": 1629646,
+          "modelName": "gpt-6-astra",
+          "outputTokens": 244305
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 304460032,
+          "cost": 78.14831520000001,
+          "inputTokens": 5112419,
           "modelName": "gpt-6.1-sol",
-          "outputTokens": 380459
+          "outputTokens": 927991
         }
       ],
       "modelsUsed": [
+        "gpt-6-astra",
         "gpt-6.1-sol"
       ],
-      "outputTokens": 380459,
+      "outputTokens": 1172296,
       "period": "2026-10-26",
-      "totalCost": 40.949235800000004,
-      "totalTokens": 132208182
+      "totalCost": 176.0877372,
+      "totalTokens": 381802105
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 147287040,
+      "inputTokens": 2183275,
+      "metadata": {
+        "agents": [
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 34125312,
+          "cost": 44.017552,
+          "inputTokens": 720284,
+          "modelName": "gpt-6-astra",
+          "outputTokens": 53788
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 113161728,
+          "cost": 23.823697600000003,
+          "inputTokens": 1462991,
+          "modelName": "gpt-6.1-sol",
+          "outputTokens": 197162
+        }
+      ],
+      "modelsUsed": [
+        "gpt-6-astra",
+        "gpt-6.1-sol"
+      ],
+      "outputTokens": 250950,
+      "period": "2026-10-27",
+      "totalCost": 67.8412496,
+      "totalTokens": 149721265
     }
   ],
   "totals": {
     "cacheCreationTokens": 86840074,
-    "cacheReadTokens": 32966612814,
-    "inputTokens": 1112903796,
-    "outputTokens": 143647188,
-    "totalCost": 18552.681273420007,
-    "totalTokens": 34310003872
+    "cacheReadTokens": 33358371918,
+    "inputTokens": 1119417093,
+    "outputTokens": 144689975,
+    "totalCost": 18755.661024420006,
+    "totalTokens": 34709319060
   },
   "tools": [
     [
       "Claude Code",
-      2040.9234114500032
+      2039.479142250002
     ],
     [
       "Codex",
-      16511.757861970003
+      16716.181882170004
     ]
   ]
 }
