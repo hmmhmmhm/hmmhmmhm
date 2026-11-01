@@ -1,7 +1,7 @@
 {
   "version": 1,
   "device": "gpd",
-  "updatedAt": "2026-10-31T05:36:12.550Z",
+  "updatedAt": "2026-11-01T01:16:41.378Z",
   "daily": [
     {
       "agent": "all",
@@ -1892,24 +1892,80 @@
       "period": "2026-10-26",
       "totalCost": 0.4205348,
       "totalTokens": 2260001
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 130947200,
+      "inputTokens": 1750142,
+      "metadata": {
+        "agents": [
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 130947200,
+          "cost": 164.71141999999998,
+          "inputTokens": 1750142,
+          "modelName": "gpt-6-astra",
+          "outputTokens": 325256
+        }
+      ],
+      "modelsUsed": [
+        "gpt-6-astra"
+      ],
+      "outputTokens": 325256,
+      "period": "2026-10-31",
+      "totalCost": 164.71141999999998,
+      "totalTokens": 133022598
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 20941952,
+      "inputTokens": 278009,
+      "metadata": {
+        "agents": [
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 20941952,
+          "cost": 27.019192000000004,
+          "inputTokens": 278009,
+          "modelName": "gpt-6-astra",
+          "outputTokens": 65943
+        }
+      ],
+      "modelsUsed": [
+        "gpt-6-astra"
+      ],
+      "outputTokens": 65943,
+      "period": "2026-11-01",
+      "totalCost": 27.019192000000004,
+      "totalTokens": 21285904
     }
   ],
   "totals": {
     "cacheCreationTokens": 13347574,
-    "cacheReadTokens": 1518862349,
-    "inputTokens": 50377575,
-    "outputTokens": 6192394,
-    "totalCost": 1008.9390628,
-    "totalTokens": 1588779892
+    "cacheReadTokens": 1670751501,
+    "inputTokens": 52405726,
+    "outputTokens": 6583593,
+    "totalCost": 1200.6696748,
+    "totalTokens": 1743088394
   },
   "tools": [
     [
       "Claude Code",
-      417.29841875
+      417.19879674999993
     ],
     [
       "Codex",
-      591.64064405
+      783.47087805
     ]
   ]
 }
