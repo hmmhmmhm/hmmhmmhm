@@ -1,7 +1,7 @@
 {
   "version": 1,
   "device": "gpd",
-  "updatedAt": "2026-11-08T22:00:16.518Z",
+  "updatedAt": "2026-11-12T02:08:36.872Z",
   "daily": [
     {
       "agent": "all",
@@ -815,6 +815,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 64231,
           "cacheCreationTokens": 64231,
           "cacheReadTokens": 2178101,
           "cost": 1.9561005,
@@ -843,6 +844,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 309916,
           "cacheCreationTokens": 309916,
           "cacheReadTokens": 3093693,
           "cost": 4.971536499999999,
@@ -871,6 +873,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 490818,
           "cacheCreationTokens": 490818,
           "cacheReadTokens": 48950061,
           "cost": 31.36730549999999,
@@ -879,6 +882,7 @@
           "outputTokens": 79298
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 141512,
           "cacheReadTokens": 973281,
           "cost": 0.3363881,
@@ -908,6 +912,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 285017,
           "cacheCreationTokens": 285017,
           "cacheReadTokens": 13028477,
           "cost": 11.358673500000002,
@@ -936,6 +941,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 1879278,
           "cacheCreationTokens": 1879278,
           "cacheReadTokens": 136198966,
           "cost": 94.69951300000004,
@@ -964,6 +970,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 405806,
           "cacheCreationTokens": 405806,
           "cacheReadTokens": 5055969,
           "cost": 6.677159500000002,
@@ -992,6 +999,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 1858104,
           "cacheCreationTokens": 1858104,
           "cacheReadTokens": 122340705,
           "cost": 87.96029249999992,
@@ -1020,6 +1028,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 1393827,
           "cacheCreationTokens": 1393827,
           "cacheReadTokens": 67351281,
           "cost": 52.3597855,
@@ -1048,6 +1057,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 955171,
           "cacheCreationTokens": 955171,
           "cacheReadTokens": 11759515,
           "cost": 17.661552500000003,
@@ -1076,6 +1086,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 451870,
           "cacheCreationTokens": 451870,
           "cacheReadTokens": 5414231,
           "cost": 8.623465500000002,
@@ -1104,6 +1115,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 274818,
           "cacheCreationTokens": 412011,
           "cacheReadTokens": 3506500,
           "cost": 6.607151250000001,
@@ -1132,6 +1144,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 1052544,
           "cacheCreationTokens": 1052544,
           "cacheReadTokens": 35649791,
           "cost": 35.015725499999974,
@@ -1140,6 +1153,7 @@
           "outputTokens": 266551
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 1245973,
           "cacheReadTokens": 37935907,
           "cost": 19.429016850000004,
@@ -1169,6 +1183,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 996157,
           "cacheCreationTokens": 996157,
           "cacheReadTokens": 9125732,
           "cost": 15.165261000000001,
@@ -1177,6 +1192,7 @@
           "outputTokens": 25626
         },
         {
+          "cacheCreation1hTokens": 0,
           "cacheCreationTokens": 90483,
           "cacheReadTokens": 3228976,
           "cost": 1.42047705,
@@ -1206,6 +1222,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 1163377,
           "cacheCreationTokens": 1163377,
           "cacheReadTokens": 8104672,
           "cost": 17.832631000000003,
@@ -1234,6 +1251,7 @@
       },
       "modelBreakdowns": [
         {
+          "cacheCreation1hTokens": 151479,
           "cacheCreationTokens": 151479,
           "cacheReadTokens": 2223707,
           "cost": 3.856383500000001,
