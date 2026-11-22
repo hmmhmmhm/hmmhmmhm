@@ -1,7 +1,7 @@
 {
   "version": 1,
   "device": "gpd",
-  "updatedAt": "2026-11-21T05:00:01.006Z",
+  "updatedAt": "2026-11-22T06:05:02.543Z",
   "daily": [
     {
       "agent": "all",
@@ -2003,24 +2003,52 @@
       "period": "2026-11-07",
       "totalCost": 1.3267360000000001,
       "totalTokens": 1690472
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 6027136,
+      "inputTokens": 174735,
+      "metadata": {
+        "agents": [
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 6027136,
+          "cost": 0.5464718,
+          "inputTokens": 174735,
+          "modelName": "gpt-6.1-terra",
+          "outputTokens": 14076
+        }
+      ],
+      "modelsUsed": [
+        "gpt-6.1-terra"
+      ],
+      "outputTokens": 14076,
+      "period": "2026-11-21",
+      "totalCost": 0.5464718,
+      "totalTokens": 6215947
     }
   ],
   "totals": {
     "cacheCreationTokens": 13347574,
-    "cacheReadTokens": 1716978445,
-    "inputTokens": 52872280,
-    "outputTokens": 6669954,
-    "totalCost": 1254.4408088,
-    "totalTokens": 1789868253
+    "cacheReadTokens": 1723005581,
+    "inputTokens": 53047015,
+    "outputTokens": 6684030,
+    "totalCost": 1254.9872806,
+    "totalTokens": 1796084200
   },
   "tools": [
     [
       "Claude Code",
-      417.2984187500001
+      417.2984187500002
     ],
     [
       "Codex",
-      837.1423900499999
+      837.6888618499999
     ]
   ]
 }
