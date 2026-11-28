@@ -1,7 +1,7 @@
 {
   "version": 1,
   "device": "gpd",
-  "updatedAt": "2026-11-25T22:00:26.508Z",
+  "updatedAt": "2026-11-28T03:54:35.503Z",
   "daily": [
     {
       "agent": "all",
@@ -2096,15 +2096,71 @@
       "period": "2026-11-25",
       "totalCost": 21.955736400000003,
       "totalTokens": 214663664
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 1063808,
+      "inputTokens": 158624,
+      "metadata": {
+        "agents": [
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 1063808,
+          "cost": 0.23706939999999999,
+          "inputTokens": 158624,
+          "modelName": "gpt-6.1-terra",
+          "outputTokens": 5051
+        }
+      ],
+      "modelsUsed": [
+        "gpt-6.1-terra"
+      ],
+      "outputTokens": 5051,
+      "period": "2026-11-26",
+      "totalCost": 0.23706939999999999,
+      "totalTokens": 1227483
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 238848,
+      "inputTokens": 32539,
+      "metadata": {
+        "agents": [
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 238848,
+          "cost": 0.0482014,
+          "inputTokens": 32539,
+          "modelName": "gpt-6.1-terra",
+          "outputTokens": 744
+        }
+      ],
+      "modelsUsed": [
+        "gpt-6.1-terra"
+      ],
+      "outputTokens": 744,
+      "period": "2026-11-27",
+      "totalCost": 0.0482014,
+      "totalTokens": 272131
     }
   ],
   "totals": {
     "cacheCreationTokens": 13347574,
-    "cacheReadTokens": 1938682765,
-    "inputTokens": 55024085,
-    "outputTokens": 6850228,
-    "totalCost": 1277.2651090000002,
-    "totalTokens": 2013904652
+    "cacheReadTokens": 1939985421,
+    "inputTokens": 55215248,
+    "outputTokens": 6856023,
+    "totalCost": 1277.5503798000002,
+    "totalTokens": 2015404266
   },
   "tools": [
     [
@@ -2113,7 +2169,7 @@
     ],
     [
       "Codex",
-      859.9666902499998
+      860.2519610499999
     ]
   ]
 }
